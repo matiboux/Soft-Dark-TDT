@@ -22,7 +22,7 @@ activeButtonBgOver: #285078; // default active button background with mouse over
 activeButtonBgRipple: #204060; // default active button ripple effect
 activeButtonFg: #f0f0f0; // default active button text
 activeButtonFgOver: activeButtonFg; // default active button text with mouse over
-activeButtonSecondaryFg: #8ee4d9; // default active button additional text (selected messages counter in forward / delete buttons)
+activeButtonSecondaryFg: #50a0f0; // default active button additional text (selected messages counter in forward / delete buttons)
 activeButtonSecondaryFgOver: activeButtonSecondaryFg; // default active button additional text with mouse over
 activeLineFg: #4080c0; // default active line (like code input field bottom border when you log in and field is focused)
 activeLineFgError: #c04040; // default active line for error state (like code input field bottom border when you log in and you've entered incorrect code)
@@ -246,8 +246,8 @@ msgInBg: #404040; // inbox message background
 msgInBgSelected: #303030; // inbox selected message background (and background of selected text in those messages)
 msgOutBg: #306090; // outbox message background
 msgOutBgSelected: #204060; // outbox selected message background (and background of selected text in those messages)
-msgSelectOverlay: #20283040; // overlay which is filling the media parts of selected messages (like in selected photo message)
-msgStickerOverlay: #20283040; // overlay which is filling the selected sticker message
+msgSelectOverlay: #20406080; // overlay which is filling the media parts of selected messages (like in selected photo message)
+msgStickerOverlay: msgSelectOverlay; // overlay which is filling the selected sticker message
 msgInServiceFg: #50a0f0; // inbox message information text (like information about a forwarded message original sender)
 msgInServiceFgSelected: msgInServiceFg; // inbox selected message information text (like information about a forwarded message original sender)
 msgOutServiceFg: #60c0ff; // outbox message information text (like information about a forwarded message original sender)
@@ -446,3 +446,4 @@ overviewCheckBorder: #f0f0f0;
 profileOtherAdminStarFg: #4080c0;
 profileOtherAdminStarFgOver: profileOtherAdminStarFg;
 profileAdminStarFgOver: profileAdminStartFg;
+overviewCheckBgActive: windowBgActive;
