@@ -176,7 +176,7 @@ dialogsForwardBg: #202830; // forwarding panel background (when forwarding messa
 dialogsForwardFg: #f0f0f0; // forwarding panel text (when forwarding messages in the smallest window size)
 searchedBarBg: #303840; // search results bar background (in chats list, contacts box..)
 searchedBarFg: #c0c0c0; // search results bar text (in chats list, contacts box..)
-topBarBg: #202830; // top bar background (in chat view, media overview..)
+topBarBg: windowBg; // top bar background (in chat view, media overview..)
 emojiPanBg: windowBg; // emoji panel background
 emojiPanCategories: #303030; // emoji panel categories background
 emojiPanHeaderFg: #808080; // emoji panel section header text
