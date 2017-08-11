@@ -198,7 +198,7 @@ historyFileNameOutFg: historyTextOutFg; // outbox media filename text
 historyFileNameOutFgSelected: historyTextOutFgSelected; // outbox media filename text in a selected message
 historyOutIconFg: #183048; // outbox message tick / double tick icon
 historyOutIconFgSelected: #102030; // outbox message tick / double tick icon in a selected message
-historyIconFgInverted: #306090; // media message tick / double tick icon (like in sent photo)
+historyIconFgInverted: #f0f0f0; // media message tick / double tick icon (like in sent photo)
 historySendingOutIconFg: #183048; // outbox sending message icon (clock)
 historySendingInIconFg: #183048; // inbox sending message icon (clock) (like in sent messages to yourself or in sent messages to a channel)
 historySendingInvertedIconFg: #306090; // media sending message icon (clock) (like in sent photo)
