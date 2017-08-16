@@ -201,7 +201,7 @@ historyOutIconFgSelected: #102030; // outbox message tick / double tick icon in 
 historyIconFgInverted: #f0f0f0; // media message tick / double tick icon (like in sent photo)
 historySendingOutIconFg: #183048; // outbox sending message icon (clock)
 historySendingInIconFg: #183048; // inbox sending message icon (clock) (like in sent messages to yourself or in sent messages to a channel)
-historySendingInvertedIconFg: #306090; // media sending message icon (clock) (like in sent photo)
+historySendingInvertedIconFg: #e0e0e0; // media sending message icon (clock) (like in sent photo)
 historyCallArrowInFg: callArrowFg; // received phone call arrow
 historyCallArrowInFgSelected: historyCallArrowInFg; // received phone call arrow in a selected message
 historyCallArrowMissedInFg: callArrowMissedFg; // missed phone call arrow
