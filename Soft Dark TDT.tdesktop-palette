@@ -438,8 +438,8 @@ importantTooltipBg: toastBg; //
 importantTooltipFg: toastFg; // 
 importantTooltipFgLink: #65fce8; // 
 filterInputActiveBg: #303840;
-botKbBg: #3d444b;
-botKbDownBg: #494f55;
+botKbBg: #404040;
+botKbDownBg: #303030;
 emojiIconFg: #808080;
 emojiIconFgActive: #4080c0;
 overviewCheckBorder: #f0f0f0;
@@ -447,3 +447,4 @@ profileOtherAdminStarFg: #4080c0;
 profileOtherAdminStarFgOver: profileOtherAdminStarFg;
 profileAdminStarFgOver: profileAdminStartFg;
 overviewCheckBgActive: windowBgActive;
+botKbColor: windowBoldFgOver;
