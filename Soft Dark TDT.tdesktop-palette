@@ -31,10 +31,10 @@ lightButtonBgOver: #383838; // default light button background with mouse over
 lightButtonBgRipple: #303030; // default light button ripple effect
 lightButtonFg: #e0e0e0; // default light button text
 lightButtonFgOver: lightButtonFg; // default light button text with mouse over
-attentionButtonFg: lightButtonFg; // default attention button text (like confirm button on log out)
-attentionButtonFgOver: lightButtonFgOver; // default attention button text with mouse over
+attentionButtonFg: #f05050; // default attention button text (like confirm button on log out)
+attentionButtonFgOver: attentionButtonFg; // default attention button text with mouse over
 attentionButtonBgOver: #c0404040; // default attention button background with mouse over
-attentionButtonBgRipple: #c04040; // default attention button ripple effect
+attentionButtonBgRipple: #803030; // default attention button ripple effect
 outlineButtonBg: windowBg; // default left outlined button background (like shared media links in profiles)
 outlineButtonBgOver: #313b43; // default left outlined button background with mouse over
 outlineButtonOutlineFg: #29baa7; // default left outlined button left outline border
