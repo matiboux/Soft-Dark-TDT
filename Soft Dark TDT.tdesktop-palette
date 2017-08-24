@@ -243,7 +243,7 @@ historyScrollBarBgOver: scrollBarBgOver; // scroll bar current rectangle with mo
 historyScrollBg: scrollBg; // scroll bar background (adjusted)
 historyScrollBgOver: scrollBgOver; // scroll bar background with mouse over the scroll bar (adjusted)
 msgInBg: #404040; // inbox message background
-msgInBgSelected: #303840; // inbox selected message background (and background of selected text in those messages)
+msgInBgSelected: #304050; // inbox selected message background (and background of selected text in those messages)
 msgOutBg: #306090; // outbox message background
 msgOutBgSelected: #204060; // outbox selected message background (and background of selected text in those messages)
 msgSelectOverlay: #20406080; // overlay which is filling the media parts of selected messages (like in selected photo message)
