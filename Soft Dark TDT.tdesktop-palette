@@ -317,11 +317,11 @@ historyFileThumbRadialFgSelected: historyFileThumbRadialFg; // selected file wit
 historyVideoMessageProgressFg: historyFileThumbIconFg; // radial playback progress in round video messages
 msgWaveformInActive: #4080c0; // inbox voice message active waveform lines (like played part of currently playing voice message)
 msgWaveformInActiveSelected: msgWaveformInActive; // inbox selected voice message active waveform lines (like played part of currently playing voice message)
-msgWaveformInInactive: #606870; // inbox voice message inactive waveform lines (like upcoming part of currently playing voice message)
+msgWaveformInInactive: #606060; // inbox voice message inactive waveform lines (like upcoming part of currently playing voice message)
 msgWaveformInInactiveSelected: msgWaveformInInactive; // inbox selected voice message inactive waveform lines (like upcoming part of currently playing voice message)
 msgWaveformOutActive: #50a0f0; // outbox voice message active waveform lines (like played part of currently playing voice message)
 msgWaveformOutActiveSelected: msgWaveformOutActive; // outbox selected voice message active waveform lines (like played part of currently playing voice message)
-msgWaveformOutInactive: #707880; // outbox voice message inactive waveform lines (like upcoming part of currently playing voice message)
+msgWaveformOutInactive: #4080c0; // outbox voice message inactive waveform lines (like upcoming part of currently playing voice message)
 msgWaveformOutInactiveSelected: msgWaveformOutInactive; // outbox selected voice message inactive waveform lines (like upcoming part of currently playing voice message)
 msgBotKbOverBgAdd: #ffffff14; // this is painted over a bot inline keyboard button (which has msgServiceBg background) when mouse is over that button
 msgBotKbIconFg: msgServiceFg; // bot inline keyboard button icon in the top-right corner (like in @vote bot when a poll is ready to be shared)
