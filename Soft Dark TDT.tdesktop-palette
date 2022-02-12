@@ -1,3 +1,8 @@
+// THEME EDITOR SERVICE INFO START
+// ID: 6030873904585637889
+// ACCESS: 9170678982081173438
+// THEME EDITOR SERVICE INFO END
+
 windowBg: #202020; // white: fallback for background
 windowFg: #f0f0f0; // black: fallback for text
 windowBgOver: #181818; // light gray: fallback for background with mouse over
@@ -448,3 +453,15 @@ profileOtherAdminStarFgOver: profileOtherAdminStarFg;
 profileAdminStarFgOver: profileAdminStartFg;
 overviewCheckBgActive: windowBgActive;
 botKbColor: windowBoldFgOver;
+dialogsOnlineBadgeFgActive: #50a0c0;
+dialogsOnlineBadgeFg: #4080c0;
+sideBarBg: #202020;
+sideBarBgActive: #303030;
+sideBarBgRipple: #303030;
+sideBarTextFg: #808080;
+sideBarTextFgActive: #50a0f0;
+sideBarIconFg: #808080;
+sideBarIconFgActive: #50a0f0;
+sideBarBadgeBg: #4080c0;
+sideBarBadgeBgMuted: #808080;
+sideBarBadgeFg: #f0f0f0;
